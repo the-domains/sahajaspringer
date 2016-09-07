@@ -1,20 +1,4 @@
-name: SahajaSpringer
-favicon: null
-layout_spectrum: 0.48671
 typography_spectrum: 0.65609
-title: Fast Forward Your Vision
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#aab5b9'
@@ -26,4 +10,21 @@ color:
   lightness: 0.032403199234977365
   saturation: 0.1708530578762293
   rhythmicContrast: 0.9997185526881367
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48671
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SahajaSpringer
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Fast Forward Your Vision
+description: 'be the change you wish to see in the world now '
 purpose: []
